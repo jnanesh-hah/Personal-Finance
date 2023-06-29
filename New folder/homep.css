@@ -83,12 +83,18 @@ button:hover{
     color: rgb(237, 237, 249);
 }
 li:hover{
-    background-color: rgb(244, 239, 239);
-    color: rgb(6, 6, 14);
-    border-radius: 30px;
-    margin: 0 10px;
+   
+    color: rgb(153, 153, 245);
+    font-size: 1.02em;
     transition: ease-in-out 0.7s;
 }
 .purple{
-    color:violet;
+    color:rgb(170, 107, 228);
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+#element{
+    color:rgb(170, 107, 228);
 }
